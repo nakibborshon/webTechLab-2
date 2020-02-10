@@ -4,8 +4,8 @@
 	$num3=47;
 
 	if ($num1>$num2) {
-		if ($number1>$number3) {
-			echo "The number:".$num." is the largest.";
+		if ($num1>$num3) {
+			echo "The number:".$num1." is the largest.";
 		}
 		else {
 			echo "The number:".$num3." is the largest.";
