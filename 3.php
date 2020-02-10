@@ -1,8 +1,8 @@
 <?php 
 	$number=5;
-	$remainder=$number%2;
+	$rem=$number%2;
 
-	if ($remainder="0") {
+	if ($rem="0") {
 		echo "The number is even.";
 	}
 	else {
