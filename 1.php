@@ -1,6 +1,6 @@
 <?php
-	$length=3;
-	$width=5;
+	$length=13;
+	$width=25;
 
 	echo 'Length:'.$length;
 	echo "<br>";
