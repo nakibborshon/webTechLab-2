@@ -1,5 +1,5 @@
 <?php
-	$amount=50000;
+	$amount=80000;
 
 	echo "Amount:".$amount." Taka";
 	echo "<br>";
